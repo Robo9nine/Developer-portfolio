@@ -84,9 +84,9 @@ nav a{
 }
 .banner-description{
     width: 585px;
-font-size: 18px;
-color: #757575;
-text-align: left;
+    font-size: 18px;
+    color: #757575;
+    text-align: left;
 }
 /* main section styles */
 main{
@@ -107,6 +107,9 @@ main{
 }
 .about-info{
     text-align: center;
-    margin: 0;
-    font-size: 20px;
+    color: #757575;
+    height: 60px;
+}
+#section-description{
+    padding: 30px 150px;
 }
