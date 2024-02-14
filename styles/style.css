@@ -89,6 +89,10 @@ color: #757575;
 text-align: left;
 }
 /* main section styles */
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
 
 /* about section styles */
 .about{
@@ -96,4 +100,13 @@ text-align: left;
     border-radius: 10px;
     background: #fff8f3;
     margin: 130px 0;
+}
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+}
+.about-info{
+    text-align: center;
+    margin: 0;
+    font-size: 20px;
 }
